@@ -1,0 +1,29 @@
+<resources>
+    <string name="marvel_app_name">MarvelProject</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="number_0">0</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">X</string>
+    <string name="division">/</string>
+    <string name="parenthesis_open">(</string>
+    <string name="parenthesis_close">)</string>
+    <string name="response">=</string>
+    <string name="toastMissParenthesis">You Miss a Parenthesis</string>
+    <string name="toastLeftParenthesis">There is a Parenthesis Left</string>
+
+    <string name="txtTitleCharacters">characters</string>
+    <string name="txtTitleComics">Comics</string>
+    <string name="txtTitleCreators">Creators</string>
+    <string name="txtTitleEvents">Events</string>
+    <string name="txtTitleSeries">Series</string>
+    <string name="txtTitleStories">Stories</string>
+</resources>
